@@ -1,5 +1,5 @@
 {
-    "name": "sylius/customer-bundle",
+    "name": "monofony/customer-bundle",
     "type": "symfony-bundle",
     "description": "Customers management for Symfony projects.",
     "keywords": [
