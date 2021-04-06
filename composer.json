@@ -38,7 +38,7 @@
         "php": "^7.4 || ^8.0",
         "doctrine/orm": "^2.7",
         "egulias/email-validator": "^3.0",
-        "sylius/customer": "^1.6",
+        "monofony/customer": "^1.6",
         "sylius/resource-bundle": "^1.7",
         "symfony/framework-bundle": "^4.4 || ^5.2",
         "webmozart/assert": "^1.8"
